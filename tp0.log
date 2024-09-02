@@ -1,0 +1,79 @@
+2024/09/01 18:47:46 Hola soy un log
+2024/09/01 18:47:46 open config.json: The system cannot find the file specified.
+2024/09/01 18:48:34 Hola soy un log
+2024/09/01 18:48:34 open config.json: The system cannot find the file specified.
+2024/09/02 15:01:24 Hola soy un log
+2024/09/02 15:01:24 open config.json: The system cannot find the file specified.
+2024/09/02 15:03:32 Hola soy un log
+2024/09/02 15:03:32 open client/onfig.json: The system cannot find the file specified.
+2024/09/02 15:03:41 Hola soy un log
+2024/09/02 15:03:41 Mensaje: Hola soy un cliente
+2024/09/02 15:03:41 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:17:27 Hola soy un log
+2024/09/02 15:17:27 Mensaje: Hola soy un cliente
+2024/09/02 15:17:27 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:28:21 Hola soy un log
+2024/09/02 15:28:21 Mensaje: Hola soy un cliente
+2024/09/02 15:28:21 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:28:21 respuesta del servidor: 200 OK
+2024/09/02 15:28:21 Ingrese los mensajes
+2024/09/02 15:28:40 ramiro teta caida
+2024/09/02 15:28:40 paqute a enviar: {Valores:[]}
+2024/09/02 15:28:54 Hola soy un log
+2024/09/02 15:28:54 Mensaje: Hola soy un cliente
+2024/09/02 15:28:54 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:28:54 respuesta del servidor: 200 OK
+2024/09/02 15:28:54 Ingrese los mensajes
+2024/09/02 15:28:57 
+2024/09/02 15:33:31 Hola soy un log
+2024/09/02 15:33:31 Mensaje: Hola soy un cliente
+2024/09/02 15:33:31 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:33:31 respuesta del servidor: 200 OK
+2024/09/02 15:33:31 Ingrese los mensajes
+2024/09/02 15:34:39 
+2024/09/02 15:34:58 Hola soy un log
+2024/09/02 15:34:58 Mensaje: Hola soy un cliente
+2024/09/02 15:34:58 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:34:58 respuesta del servidor: 200 OK
+2024/09/02 15:34:58 Ingrese los mensajes
+2024/09/02 15:35:04 culo
+2024/09/02 15:35:04 Ingrese los mensajes
+2024/09/02 15:35:07 hola
+2024/09/02 15:35:07 respuesta del servidor: 200 OK
+2024/09/02 15:35:07 paqute a enviar: {Valores:[]}
+2024/09/02 15:38:13 Hola soy un log
+2024/09/02 15:38:13 Mensaje: Hola soy un cliente
+2024/09/02 15:38:13 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:38:13 respuesta del servidor: 200 OK
+2024/09/02 15:38:13 Ingrese los mensajes
+2024/09/02 15:38:24 hola como estas
+2024/09/02 15:38:24 paqute a enviar: {Valores:[]}
+2024/09/02 15:38:24 respuesta del servidor: 200 OK
+2024/09/02 15:39:02 Hola soy un log
+2024/09/02 15:39:02 Mensaje: Hola soy un cliente
+2024/09/02 15:39:02 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:39:02 respuesta del servidor: 200 OK
+2024/09/02 15:39:02 Ingrese los mensajes
+2024/09/02 15:39:05 hola
+2024/09/02 15:39:05 Ingrese los mensajes
+2024/09/02 15:39:08 chauuuuuuuuuuuuu
+2024/09/02 15:39:08 paqute a enviar: {Valores:[]}
+2024/09/02 15:39:08 respuesta del servidor: 200 OK
+2024/09/02 15:39:49 Hola soy un log
+2024/09/02 15:39:49 Mensaje: Hola soy un cliente
+2024/09/02 15:39:49 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:39:49 respuesta del servidor: 200 OK
+2024/09/02 15:39:49 Ingrese los mensajes
+2024/09/02 15:39:54 hola hola	ggg
+2024/09/02 15:39:54 paquete a enviar: {Valores:[]}
+2024/09/02 15:39:54 respuesta del servidor: 200 OK
+2024/09/02 15:43:48 Hola soy un log
+2024/09/02 15:43:48 Mensaje: Hola soy un cliente
+2024/09/02 15:43:48 Config: &{Ip:127.0.0.1 Puerto:8080 Mensaje:Hola soy un cliente}
+2024/09/02 15:43:48 respuesta del servidor: 200 OK
+2024/09/02 15:43:48 Ingrese los mensajes
+2024/09/02 15:43:50 hola
+2024/09/02 15:43:50 Ingrese los mensajes
+2024/09/02 15:43:53 chua
+2024/09/02 15:43:53 paquete a enviar: {Valores:[]}
+2024/09/02 15:43:53 respuesta del servidor: 200 OK

@@ -43,11 +43,10 @@ func LeerConsola() {
 }
 
 func GenerarYEnviarPaquete() {
-	paquete := Paquete{}
-	// Leemos y cargamos el paquete
 
-	log.Printf("paqute a enviar: %+v", paquete)
-	// Enviamos el paqute
+	paquete := Paquete{}
+	log.Printf("paquete a enviar: %+v", paquete)
+	EnviarPaquete(globals.ClientConfig.Ip, globals.ClientConfig.Puerto, paquete)
 }
 
 func EnviarMensaje(ip string, puerto int, mensajeTxt string) {
